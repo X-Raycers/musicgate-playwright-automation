@@ -22,6 +22,15 @@ A total of 46 automated UI tests were created during the project.
 
 ---
 
+# Automation Demo Video
+
+This 15-minute video demonstrates the MusicGate
+Playwright Automation project and its automated UI tests.
+
+[▶ Watch the Full Automation Demo (15 Minutes)](https://www.youtube.com/watch?v=bD2FuiPhwwA)
+A total of 46 automated UI tests were created during the project.
+---
+
 # Technologies Used
 
 - Python
